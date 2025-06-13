@@ -34,7 +34,7 @@ To get a local copy up and running, follow these simple steps:
     cd tic-tac-toe
     ```
 3. Direct Play:
-   [https://fascinating-youtiao-283e68.netlify.app](#real-cool-heading)
+   [https://fascinating-youtiao-283e68.netlify.app]
 ## Usage
 1. Open the `index.html` file in your web browser to start the game.
 2. Players take turns clicking on the buttons to mark their moves with 'X' or 'O'.
